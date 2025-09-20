@@ -1,0 +1,1 @@
+{"id": [0, 0, 0, 0, 0, 0, 0, 0], "tword": ["this", "is", "great", "how", "do", "i", "help", "you"], "txpos": ["DT", "VBZ", "JJ", "WRB", "VBP", "PRP", "VB", "PRP"], "tupos": ["PRON", "AUX", "ADJ", "SCONJ", "AUX", "PRON", "VERB", "PRON"], "tdeprel": ["nsubj", "cop", "root", "mark", "aux", "nsubj", "ccomp", "obj"]}

@@ -1,0 +1,1 @@
+[{"id": [0, 0, 0, 0, 0, 0, 0, 0], "tword": ["in", "spanish", "meet", "me", "tomorrow", "is", "said", "how"], "txpos": ["IN", "NNP", "VB", "PRP", "NN", "VBZ", "VBN", "WRB"], "tupos": ["ADP", "PROPN", "VERB", "PRON", "NOUN", "AUX", "VERB", "SCONJ"], "tdeprel": ["case", "nsubj", "advcl", "obj", "obl:tmod", "aux:pass", "root", "mark"]}]
