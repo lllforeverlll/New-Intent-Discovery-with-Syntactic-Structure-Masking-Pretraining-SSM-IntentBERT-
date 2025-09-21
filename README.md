@@ -35,7 +35,7 @@ SSM-IntentBERT
 │   ├── utils/          # NID utilities (contrastive.py, tools.py, etc.)
 │   ├── model.py        # Model definition
 │   ├── dataloader.py   # Dataset loader
-│   ├── clnn.py         # CLNN model
+│   ├── train.py         # CLNN model
 │   ├── mtp.py          # Multi-task pretraining (MTP)
 │   └── test.py
 │
@@ -95,7 +95,7 @@ bash scripts/mlm.sh
 After pretraining, switch to the `nid` directory:
 ```bash
 cd ../nid
-bash scripts/clnn_banking.sh 0   # run NID on banking dataset with GPU 0
+bash scripts/train_banking.sh 0   # run NID on banking dataset with GPU 0
 ```
 
 Replace `banking` with other datasets (`mcid`, `clinc`, `stackoverflow`) as needed.
